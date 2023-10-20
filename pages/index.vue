@@ -79,7 +79,7 @@ onMounted(async () => {
     await getNews();
     await getCountHistory();
 
-    if (newsCount > 0) {
+    if (newsCount.value > 0) {
       await getNewsFullHistory();
     }
   });
