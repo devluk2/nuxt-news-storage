@@ -1,0 +1,16 @@
+# url to immudb Vault api which includes ledger and collection, example:
+# https://vault.immudb.io/ics/api/v1/ledger/default/collection/default
+NUXT_IMMUDB_API_URL=
+
+# private immudb Vault api key
+NUXT_IMMUDB_API_KEY=
+
+# public immudb Vault api key
+NUXT_PUBLIC_IMMUDB_API_KEY=
+
+# url to newsdata.io api, example:
+# https://newsdata.io/api/1/news
+NUXT_NEWSDATA_API_URL=
+
+# newsdata.io api key
+NUXT_NEWSDATA_API_KEY=

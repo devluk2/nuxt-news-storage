@@ -1,11 +1,16 @@
 # Nuxt news storage
 
-## Description
-App for listing and storing news from newsdata.io
+### App for listing latest news from newsdata.io API and storing user actions into the immudb Vault
+
+## Documentation
+
+- Nuxt docs - https://nuxt.com/docs/getting-started/introduction
+- Newsdata.io API docs - https://newsdata.io/documentation
+- immudb Vault API docs - https://vault.immudb.io/docs/api/v1
 
 ## Setup
 
-Make sure to install the dependencies:
+### 1. Make sure to install the dependencies:
 
 ```bash
 # npm
@@ -19,6 +24,12 @@ yarn install
 
 # bun
 bun install
+```
+
+### 2. ".env"
+This step is optional, but recommended in order to retrieve and store data in immudb Vault. Without .env, the application will still work with dummy data (for demonstration purposes). 
+```
+Rename .env.example to .env and fill in the Newsdata and Immudb URL/API keys.
 ```
 
 ## Development Server

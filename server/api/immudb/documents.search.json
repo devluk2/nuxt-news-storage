@@ -1,0 +1,61 @@
+{
+	"response": {
+		"page": 1,
+		"perPage": 100,
+		"revisions": [
+			{
+				"document": {
+					"_id": "65313d2a000000000000000e350e295e",
+					"_vault_md": {
+						"creator": "a:f1f15cba-20fb-4d1e-81c8-45001e318a0b",
+						"ts": 1697725738
+					},
+					"favourite": true,
+					"item": "d36a446bdcdb1d119a025b92f1f3bc92"
+				},
+				"revision": "",
+				"transactionId": ""
+			},
+			{
+				"document": {
+					"_id": "65313d2c000000000000000f350e295f",
+					"_vault_md": {
+						"creator": "a:f1f15cba-20fb-4d1e-81c8-45001e318a0b",
+						"ts": 1697725740
+					},
+					"favourite": false,
+					"item": "d36a446bdcdb1d119a025b92f1f3bc92"
+				},
+				"revision": "",
+				"transactionId": ""
+			},
+			{
+				"document": {
+					"_id": "65313d2d0000000000000010350e2960",
+					"_vault_md": {
+						"creator": "a:f1f15cba-20fb-4d1e-81c8-45001e318a0b",
+						"ts": 1697725741
+					},
+					"favourite": true,
+					"item": "d36a446bdcdb1d119a025b92f1f3bc92"
+				},
+				"revision": "",
+				"transactionId": ""
+			},
+			{
+				"document": {
+					"_id": "65313d2f0000000000000011350e2961",
+					"_vault_md": {
+						"creator": "a:f1f15cba-20fb-4d1e-81c8-45001e318a0b",
+						"ts": 1697725743
+					},
+					"favourite": true,
+					"item": "b68a252f6cbd84670e2ae497a2173fdf"
+				},
+				"revision": "",
+				"transactionId": ""
+			}
+		],
+		"searchId": ""
+	}
+}
